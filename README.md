@@ -1,1 +1,1 @@
-# Open-Accounting
+# Open Accounting
